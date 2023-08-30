@@ -1,0 +1,24 @@
+{
+  "name": "new_paywright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "playwright-core": "^1.34.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.35.1"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ceejay-veron/test_with_Playwrite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ceejay-veron/test_with_Playwrite/issues"
+  },
+  "homepage": "https://github.com/ceejay-veron/test_with_Playwrite#readme"
+}
